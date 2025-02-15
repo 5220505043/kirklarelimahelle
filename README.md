@@ -15,8 +15,6 @@ En uygun güzergahın belirlenmesi
 bash
 Kopyala
 Düzenle
-git clone https://github.com/kullanici/kirklarelimahelleanalizi.git
-cd kirklarelimahelleanalizi
 2️⃣ C++ kodunu derleyin:
 bash
 Kopyala
